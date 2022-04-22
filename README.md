@@ -1,7 +1,5 @@
 # ThisCodingTest
 
-# 이것이 코딩테스트다 Code Review  
-
 한줄소개 : <이것이 코딩테스트다> 코드리뷰  
 AIFFEL(2021.12 ~ 2022.6) CodingMaster 풀잎  
 
